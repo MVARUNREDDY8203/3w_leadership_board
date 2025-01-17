@@ -126,7 +126,9 @@ const UserList = () => {
                                     marginRight: "100px",
                                 }}
                             >
-                                <div>{Date(x.transaction_time).toString()}</div>
+                                <div>
+                                    {new Date(x.transaction_time).toString()}
+                                </div>
                                 <div>{x.id}</div>
                                 <div>{x.claimed}</div>
                             </div>

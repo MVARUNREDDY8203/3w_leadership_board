@@ -1,96 +1,111 @@
 {
-    "users": [
-        {
-            "userId": "1",
-            "username": "rahul",
-            "points": 0
-        },
-        {
-            "userId": "2",
-            "username": "anita",
-            "points": 9
-        },
-        {
-            "userId": "3",
-            "username": "suresh",
-            "points": 0
-        },
-        {
-            "userId": "4",
-            "username": "meera",
-            "points": 0
-        },
-        {
-            "userId": "5",
-            "username": "vikram",
-            "points": 0
-        },
-        {
-            "userId": "6",
-            "username": "neha",
-            "points": 0
-        },
-        {
-            "userId": "7",
-            "username": "ajay",
-            "points": 2
-        },
-        {
-            "userId": "8",
-            "username": "priya",
-            "points": 0
-        },
-        {
-            "userId": "9",
-            "username": "kiran",
-            "points": 0
-        },
-        {
-            "userId": "10",
-            "username": "deepak",
-            "points": 0
-        }
-    ],
-    "history": [
-        {
-            "id": "4",
-            "claimed": 8,
-            "transaction_time": 1737094848188
-        },
-        {
-            "id": "8",
-            "claimed": 6,
-            "transaction_time": 1737094897803
-        },
-        {
-            "id": "2",
-            "claimed": 9,
-            "transaction_time": 1737095158756
-        },
-        {
-            "id": "7",
-            "claimed": 2,
-            "transaction_time": 1737095162160
-        },
-        {
-            "id": "3",
-            "claimed": 1,
-            "transaction_time": 1737095168849
-        },
-        {
-            "id": "1",
-            "claimed": 3,
-            "transaction_time": 1737096041881
-        },
-        {
-            "id": "6",
-            "claimed": 7,
-            "transaction_time": 1737096065590
-        },
-        {
-            "id": "5",
-            "claimed": 9,
-            "transaction_time": 1737096138607
-        }
-    ]
+  "users": [
+    {
+      "userId": "1",
+      "username": "rahul",
+      "points": 9
+    },
+    {
+      "userId": "2",
+      "username": "anita",
+      "points": 12
+    },
+    {
+      "userId": "3",
+      "username": "suresh",
+      "points": 0
+    },
+    {
+      "userId": "4",
+      "username": "meera",
+      "points": 0
+    },
+    {
+      "userId": "5",
+      "username": "vikram",
+      "points": 0
+    },
+    {
+      "userId": "6",
+      "username": "neha",
+      "points": 0
+    },
+    {
+      "userId": "7",
+      "username": "ajay",
+      "points": 9
+    },
+    {
+      "userId": "8",
+      "username": "priya",
+      "points": 0
+    },
+    {
+      "userId": "9",
+      "username": "kiran",
+      "points": 0
+    },
+    {
+      "userId": "10",
+      "username": "deepak",
+      "points": 0
+    }
+  ],
+  "history": [
+    {
+      "id": "4",
+      "claimed": 8,
+      "transaction_time": 1737094848188
+    },
+    {
+      "id": "8",
+      "claimed": 6,
+      "transaction_time": 1737094897803
+    },
+    {
+      "id": "2",
+      "claimed": 9,
+      "transaction_time": 1737095158756
+    },
+    {
+      "id": "7",
+      "claimed": 2,
+      "transaction_time": 1737095162160
+    },
+    {
+      "id": "3",
+      "claimed": 1,
+      "transaction_time": 1737095168849
+    },
+    {
+      "id": "1",
+      "claimed": 3,
+      "transaction_time": 1737096041881
+    },
+    {
+      "id": "6",
+      "claimed": 7,
+      "transaction_time": 1737096065590
+    },
+    {
+      "id": "5",
+      "claimed": 9,
+      "transaction_time": 1737096138607
+    },
+    {
+      "id": "7",
+      "claimed": 7,
+      "transaction_time": 1737097546907
+    },
+    {
+      "id": "2",
+      "claimed": 3,
+      "transaction_time": 1737097554389
+    },
+    {
+      "id": "1",
+      "claimed": 9,
+      "transaction_time": 1737101701662
+    }
+  ]
 }
