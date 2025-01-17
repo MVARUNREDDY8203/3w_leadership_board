@@ -3,7 +3,7 @@
     {
       "userId": "1",
       "username": "rahul",
-      "points": 0
+      "points": 3
     },
     {
       "userId": "2",
@@ -23,12 +23,12 @@
     {
       "userId": "5",
       "username": "vikram",
-      "points": 0
+      "points": 9
     },
     {
       "userId": "6",
       "username": "neha",
-      "points": 0
+      "points": 7
     },
     {
       "userId": "7",
@@ -76,6 +76,21 @@
       "id": "3",
       "claimed": 1,
       "transaction_time": 1737095168849
+    },
+    {
+      "id": "1",
+      "claimed": 3,
+      "transaction_time": 1737096041881
+    },
+    {
+      "id": "6",
+      "claimed": 7,
+      "transaction_time": 1737096065590
+    },
+    {
+      "id": "5",
+      "claimed": 9,
+      "transaction_time": 1737096138607
     }
   ]
 }
