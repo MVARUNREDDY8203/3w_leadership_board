@@ -8,7 +8,7 @@
     {
       "userId": "2",
       "username": "anita",
-      "points": 9
+      "points": 21
     },
     {
       "userId": "3",
@@ -33,7 +33,7 @@
     {
       "userId": "7",
       "username": "ajay",
-      "points": 2
+      "points": 5
     },
     {
       "userId": "8",
@@ -91,6 +91,26 @@
       "id": "5",
       "claimed": 9,
       "transaction_time": 1737096138607
+    },
+    {
+      "id": "2",
+      "claimed": 1,
+      "transaction_time": 1737097222704
+    },
+    {
+      "id": "2",
+      "claimed": 3,
+      "transaction_time": 1737097223726
+    },
+    {
+      "id": "2",
+      "claimed": 8,
+      "transaction_time": 1737097272146
+    },
+    {
+      "id": "7",
+      "claimed": 3,
+      "transaction_time": 1737097331541
     }
   ]
 }

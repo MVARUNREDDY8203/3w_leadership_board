@@ -19,7 +19,7 @@ const UserList = () => {
                     (x, y) => y.points - x.points
                 );
                 const sortedHistory = data.userdata.history.sort(
-                    (x, y) => y.timestamp - x.timestamp
+                    (x, y) => x.timestamp - y.timestamp
                 );
                 setHistory(sortedHistory);
                 setData(sortedData);
