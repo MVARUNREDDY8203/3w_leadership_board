@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from "react";
-const geturl = "http://localhost:3000/users";
-const claimUrl = "http://localhost:3000/claim";
+// const geturl = "http://localhost:3000/users";
+// const claimUrl = "http://localhost:3000/claim";
+const geturl = "https://threew-leadership-board.onrender.com/users";
+const claimUrl = "https://threew-leadership-board.onrender.com/claim";
 const UserList = () => {
     const [data, setData] = useState(null);
     const [history, setHistory] = useState(null);
